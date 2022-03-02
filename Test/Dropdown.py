@@ -15,3 +15,7 @@ drp.select_by_index('4')
 #drp.select_by_visible_text('Legoland Malaysia Day pass')
 time.sleep(5)
 driver.close()
+
+
+time.sleep(2)
+time.sleep(2)
