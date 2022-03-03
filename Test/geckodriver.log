@@ -2181,3 +2181,674 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1646286859628	geckodriver	INFO	Listening on 127.0.0.1:56582
+1646286862983	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56583" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileC45Ar6"
+1646286864536	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileC45Ar6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56583/devtools/browser/6cac1c13-8334-449b-b9e0-dd77d60dec99
+1646286869237	Marionette	INFO	Listening on port 56588
+1646286869317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+JavaScript error: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 3186: TypeError: this.channel is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1646289108289	Marionette	INFO	Stopped listening on port 56588
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileYscabr"
+1646286904384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileYscabr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56702/devtools/browser/e2163a6d-4d21-446a-a5b4-a88f7ec2eafe
+1646286908293	Marionette	INFO	Listening on port 56707
+1646286908594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+JavaScript error: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 3186: TypeError: this.channel is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646289105938	Marionette	INFO	Stopped listening on port 56707
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646289118703	geckodriver	INFO	Listening on 127.0.0.1:65376
+1646289121742	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65377" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileG3tZWa"
+1646289122285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileG3tZWa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65377/devtools/browser/1118b9ee-a8a9-4b3d-8067-8ab315808296
+1646289125585	Marionette	INFO	Listening on port 65382
+1646289125995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646289214299	Marionette	INFO	Stopped listening on port 65381646289215465	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57123" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofile5N6D6t"
+1646289216027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofile5N6D6t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57123/devtools/browser/49971719-cf59-4ed0-aa7a-7d8a3ccc87ae
+1646289219108	Marionette	INFO	Listening on port 57129
+1646289219191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646289241128	Marionette	INFO	Stopped listening on port 57129
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646289272582	geckodriver	INFO	Listening on 127.0.0.1:57262
+1646289275685	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57263" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileKCDN4p"
+1646289276190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileKCDN4p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57263/devtools/browser/70950251-5246-497c-89c0-968ddb938a65
+1646289279232	Marionette	INFO	Listening on port 57268
+1646289279403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1646289390315	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52414" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofilekx1f2w"
+1646289390801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofilekx1f2w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52414/devtools/browser/6215a88c-050c-4a25-8167-a0922b8c4435
+1646289393817	Marionette	INFO	Listening on port 52419
+1646289394056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646289434349	Marionette	INFO	Stopped listening on port 52419
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646289438880	geckodriver	INFO	Listening on 127.0.0.1:52553
+1646289441960	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52554" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileUN4EzG"
+1646289442505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileUN4EzG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52554/devtools/browser/92e9320d-01ad-468f-93d2-5f99e8ea28d7
+1646289445347	Marionette	INFO	Listening on port 52559
+1646289445718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646290477957	Marionette	INFO	Stopped listening on port 52559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+file?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileiOf0om\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65195/devtools/browser/b11c527f-5781-41c1-bd37-fa95a44ac43d
+1646290206717	Marionette	INFO	Listening on port 65202
+1646290206826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646290475871	Marionette	INFO	Stopped listening on port 65201646290477227	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50836" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofilevpAuwc"
+1646290478343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofilevpAuwc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50836/devtools/browser/c8a144bf-5389-4784-8601-d0f9aba17267
+1646290481666	Marionette	INFO	Listening on port 50846
+1646290482083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646290488731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646290497899	Marionette	INFO	Stopped listening on port 50846
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646290506603	geckodriver	INFO	Listening on 127.0.0.1:50955
+1646290509664	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50956" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofilewFctVw"
+1646290510172	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofilewFctVw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50956/devtools/browser/6f02e726-3c82-49d1-beb0-824c64bdab6a
+1646290513292	Marionette	INFO	Listening on port 50961
+1646290513380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1646290674240	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50538" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileZfOP53"
+1646290674801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileZfOP53\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50538/devtools/browser/542342df-f896-48be-b4f8-24885d29b3b4
+1646290677829	Marionette	INFO	Listening on port 50543
+1646290677961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646290693991	Marionette	INFO	Stopped listening on port 50543
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646290714529	geckodriver	INFO	Listening on 127.0.0.1:50651
+1646290717608	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50652" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileUIrfZv"
+1646290718179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileUIrfZv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50652/devtools/browser/818ec8ad-6b6d-4c86-82a9-23f75a45ba2c
+1646290721268	Marionette	INFO	Listening on port 50657
+1646290721328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646290786106	Marionette	INFO	Stopped listening on port 50657
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646290809128	geckodriver	INFO	Listening on 127.0.0.1:50860
+1646290812200	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50861" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofile9p7aEO"
+1646290812768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofile9p7aEO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50861/devtools/browser/d8d5083e-8f9f-445b-92a3-da592b9fda80
+1646290815614	Marionette	INFO	Listening on port 50866
+1646290815927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646291427078	Marionette	INFO	Stopped listening on port 50866
+
+1646291126678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofilelLMFx0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59117/devtools/browser/8467cd0f-b9af-4da2-b101-a5233d81b9e6
+1646291129773	Marionette	INFO	Listening on port 59123
+1646291129894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646291247444	Marionette	INFO	Stopped listening on port 59121646291248909	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59838" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileMp0PF1"
+1646291249654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileMp0PF1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59838/devtools/browser/072a0d18-0e79-4c2b-835e-f0e245aa05f0
+1646291252668	Marionette	INFO	Listening on port 59844
+1646291253183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646291329186	Marionette	INFO	Stopped listening on port 59844
+1646291332229	geckodriver	INFO	Listening on 127.0.0.1:54634
+1646291335293	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54635" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileVG6wff"
+1646291335806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileVG6wff\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54635/devtools/browser/c68c1e0b-85da-43e3-b29c-e17d6bd79cab
+1646291338719	Marionette	INFO	Listening on port 54640
+1646291339039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646291424121	Marionette	INFO	Stopped listening on port 54640
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646291430305	geckodriver	INFO	Listening on 127.0.0.1:54882
+1646291433382	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54883" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofile9Nqnz3"
+1646291433903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofile9Nqnz3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54883/devtools/browser/8c2f9321-bd50-4466-8bf3-531588c64457
+1646291437044	Marionette	INFO	Listening on port 54888
+1646291437124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646291464785	Marionette	INFO	Stopped listening on port 54888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646291467976	geckodriver	INFO	Listening on 127.0.0.1:54994
+1646291471068	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54995" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileZDzhYg"
+1646291471690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileZDzhYg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54995/devtools/browser/85872fd6-bc37-4e31-aa7e-dd3ffc81c711
+1646291474525	Marionette	INFO	Listening on port 55002
+1646291474792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646291544512	Marionette	INFO	Stopped listening on port 55001646291544925	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55196" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileyPuTVS"
+1646291545550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileyPuTVS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55196/devtools/browser/06263ab1-da09-4318-8ef6-c60b72a31b9b
+1646291548378	Marionette	INFO	Listening on port 50423
+1646291548679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1646291637456	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50644" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileoB02C3"
+1646291637956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileoB02C3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50644/devtools/browser/7f0f411b-2d75-4617-86bd-4380288f6941
+1646291640918	Marionette	INFO	Listening on port 50649
+1646291641178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646291723954	Marionette	INFO	Stopped listening on port 50649
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646291726734	geckodriver	INFO	Listening on 127.0.0.1:50860
+1646291729813	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50861" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileypLpHv"
+1646291730327	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileypLpHv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50861/devtools/browser/eb0f304b-c411-4f3a-bd11-73c05758d55b
+1646291733229	Marionette	INFO	Listening on port 50866
+1646291733535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646291756289	Marionette	INFO	Stopped listening on port 50866
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646291760526	geckodriver	INFO	Listening on 127.0.0.1:50973
+1646291763571	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50974" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileJfhhys"
+1646291764108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileJfhhys\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50974/devtools/browser/a8cafec9-77e9-4c0c-b1c6-6913c0619872
+1646291767331	Marionette	INFO	Listening on port 50979
+1646291767801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+1646291802027	Marionette	INFO	Stopped listening on port 50971646291804001	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58622" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileSLrGxD"
+1646291804510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofileSLrGxD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58622/devtools/browser/c92c59fd-a7dc-49f3-a32b-7a2d696572e2
+1646291807638	Marionette	INFO	Listening on port 58628
+1646291807739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1646291892113	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58850" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofilepnimTI"
+1646291892623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofilepnimTI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58850/devtools/browser/2a73b5d9-e9de-4c3a-b807-0a3d0f85baa8
+1646291895487	Marionette	INFO	Listening on port 58857
+1646291895856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1646292307061	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53785" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofilencSbDj"
+1646292307644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alam.rashedul\\AppData\\Local\\Temp\\rust_mozprofilencSbDj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53785/devtools/browser/b205455a-de9d-4bdd-8299-463d03214bc3
+1646292310674	Marionette	INFO	Listening on port 53792
+1646292311326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.105:8060"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: http://192.168.1.105:8060/web/content/51083-969cb2f/web.assets_backend.js, line 5009: unreachable code after return statement
