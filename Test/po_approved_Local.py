@@ -37,4 +37,5 @@ driver.find_element_by_xpath("/html/body/div[8]/div/div/div[3]/button[2]/span").
 driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[2]/div/div/header/button[5]/span").click()
 time.sleep(2)
 driver.find_element_by_xpath("/html/body/div[7]/div/div/div[3]/div/footer/button[1]/span").click()
+#driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[1]/div[2]/div[1]/div/div[2]/button[1]").click()
 time.sleep(2)
