@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import keys
 driver=webdriver.Firefox(executable_path="F:\Selenium\geckodriver")
 driver.get("http://192.168.1.105:8060/web/database/selector")
 time.sleep(2)
-driver.find_element_by_xpath("html/body/div[1]/div/div[2]/a[3]").click()
+driver.find_element_by_xpath("/html/body/div[1]/div/div[2]/a[4]").click()
 time.sleep(2)
 element=driver.find_element_by_id("login").send_keys("rafsansheikh@yahoo.com")
 element=driver.find_element_by_id("password").send_keys("@dminsccl")
@@ -28,7 +28,7 @@ driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[2]/div/div/div[1]/div
 time.sleep(2)
 driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[2]/div/div/div[1]/div/div/div/div/div[1]/div/div[2]/div[1]/div[1]/div/input").click()
 time.sleep(2)
-driver.find_element_by_xpath("/html/body/ul[2]/li[5]/a").click()
+driver.find_element_by_xpath("/html/body/ul[2]/li[4]/a").click()
 # Customer select
 driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[2]/div/div/div[1]/div/div/div/div/div[1]/div/div[2]/div[1]/div[2]/div/input").click()
 driver.find_element_by_xpath("/html/body/ul[3]/li[1]/a").click()
