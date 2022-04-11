@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import keys
 driver=webdriver.Firefox(executable_path="F:\Selenium\geckodriver")
 driver.get("http://192.168.1.105:8060/web/database/selector")
 time.sleep(2)
-driver.find_element_by_xpath("html/body/div[1]/div/div[2]/a[3]").click()
+driver.find_element_by_xpath("/html/body/div[1]/div/div[2]/a[4]").click()
 time.sleep(2)
 element=driver.find_element_by_id("login").send_keys("nurnabi@scclbd.com")
 element=driver.find_element_by_id("password").send_keys("@dminsccl")
