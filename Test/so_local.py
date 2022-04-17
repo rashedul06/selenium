@@ -28,7 +28,7 @@ driver.find_element_by_xpath("/html/body/ul[4]/li[3]/a").click()
 time.sleep(2)
 driver.find_element_by_id("o_field_input_20").click()
 # Packing mode select
-driver.find_element_by_xpath("/html/body/ul[5]/li[6]/a").click()
+driver.find_element_by_xpath("/html/body/div[7]/div/div/div[2]/div[2]/div/table/tbody/tr[13]/td").click()
 time.sleep(2)
 driver.find_element_by_id("o_field_input_21").click()
 # Sales channel select
