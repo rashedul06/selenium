@@ -479,3 +479,103 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1650278994513	geckodriver	INFO	Listening on 127.0.0.1:51455
+1650278997586	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51456" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileCTgqVZ"
+1650278998143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileCTgqVZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51456/devtools/browser/2d92c4b3-1b30-4d21-bb37-b711de45f041
+1650279000939	Marionette	INFO	Listening on port 59052
+1650279001330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gen-bizbd.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gen-bizbd.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://gen-bizbd.com/web/content/53594-92c9dad/web.assets_backend.js, line 5051: unreachable code after return statement
+1650279137171	Marionette	INFO	Stopped listening on port 59051650279137716	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57534" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileuFRVzq"
+1650279138303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileuFRVzq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57534/devtools/browser/53ee4b55-35ed-4b00-a4e9-bfc6287a0646
+1650279141521	Marionette	INFO	Listening on port 57539
+1650279141975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gen-bizbd.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gen-bizbd.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://gen-bizbd.com/web/content/53594-92c9dad/web.assets_backend.js, line 5051: unreachable code after return statement
+1650279257733	Marionette	INFO	Stopped listening on port 57539
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1650280338292	geckodriver	INFO	Listening on 127.0.0.1:52449
+1650280341369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52450" "-no-remote" "-profile" "C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileaj12eA"
+1650280341930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofileaj12eA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52450/devtools/browser/835046c3-89f0-45e1-bb97-d3c5e2851fe6
+1650280344891	Marionette	INFO	Listening on port 52455
+1650280345139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gen-bizbd.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gen-bizbd.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://gen-bizbd.com/web/content/53594-92c9dad/web.assets_backend.js, line 5051: unreachable code after return statement
+SourceActor threw an exception: Error: Failed to fetch https://gen-bizbd.com/web. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://gen-bizbd.com/web. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://gen-bizbd.com/web. Code 2152924148.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: Error: Failed to fetch https://gen-bizbd.com/web. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://gen-bizbd.com/web. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://gen-bizbd.com/web. Code 2152924148.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@rconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ALAM~1.RAS\\AppData\\Local\\Temp\\rust_mozprofilekydzXD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60778/devtools/browser/56edfc77-338c-45c2-b312-cb186c96d34f
+1650280565529	Marionette	INFO	Listening on port 60783
+1650280566025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gen-bizbd.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gen-bizbd.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://gen-bizbd.com/web/content/53594-92c9dad/web.assets_backend.js, line 5051: unreachable code after return statement
+1650280607022	Marionette	INFO	Stopped listening on port 60783
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+bd.com/web/content/8719-90fa03d/web.assets_frontend.0.css'"
+console.error: ({})
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to open input source 'https://gen-bizbd.com/web/content/8719-90fa03d/web.assets_frontend.0.css'"
+console.error: ({})
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
