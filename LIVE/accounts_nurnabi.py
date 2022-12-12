@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.keys import keys
 from selenium.webdriver.common.keys import keys
-driver=webdriver.Firefox(executable_path="F:\Selenium\geckodriver")
+driver=webdriver.Firefox(executable_path="E:\Selenium\geckodriver")
 driver.get("https://gen-bizbd.com/web/login")
 time.sleep(2)
 element=driver.find_element_by_id("login").send_keys("nurnabi@scclbd.com")
