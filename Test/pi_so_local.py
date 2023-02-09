@@ -2,7 +2,6 @@ import time
 from select import select
 from selenium import webdriver
 from selenium.webdriver import ActionChains
-from selenium.webdriver.common.keys import keys
 driver=webdriver.Firefox(executable_path="F:\Selenium\geckodriver")
 driver.get("http://192.168.1.105:8060/web/database/selector")
 time.sleep(2)

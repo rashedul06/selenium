@@ -2,13 +2,11 @@ import time
 from select import select
 from selenium import webdriver
 from selenium.webdriver import ActionChains
-from selenium.webdriver.common.keys import keys
-from selenium.webdriver.common.keys import keys
 driver=webdriver.Firefox(executable_path="E:\Selenium\geckodriver")
 driver.get("https://gen-bizbd.com/web/login")
 time.sleep(2)
 element=driver.find_element_by_id("login").send_keys("nurnabi@scclbd.com")
-element=driver.find_element_by_id("password").send_keys("asdasf")
+element=driver.find_element_by_id("password").send_keys("&dminERPSamuda")
 time.sleep(2)
 driver.find_element_by_xpath("/html/body/div/main/div/form/div[3]/button").click()
 time.sleep(7)
